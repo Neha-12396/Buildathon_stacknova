@@ -1,0 +1,21 @@
+
+> forensai-frontend@0.1.0 dev
+> vite --host 127.0.0.1 --port 4173
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m386[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4173[22m/[39m
+[2m12:10:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AudioDetection.jsx, /src/index.css[22m
+[2m12:19:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AudioDetection.jsx, /src/index.css[22m
+[2m12:19:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.jsx, /src/index.css[22m
+[2m12:34:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AudioDetection.jsx, /src/index.css[22m
+[2m12:35:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/EvidencePanel.jsx, /src/index.css[22m
+[2m12:36:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LegalEvidence.jsx, /src/index.css[22m
+[2m12:38:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LegalEvidence.jsx[22m
+[2m12:39:32 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ReportPreview.jsx, /src/index.css[22m
+[2m12:41:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LegalEvidence.jsx, /src/index.css[22m
+[2m12:43:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ReportPreview.jsx, /src/components/RiskBadge.jsx, /src/pages/LegalEvidence.jsx[22m
+[2m1:12:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/ReportPreview.jsx, /src/components/RiskBadge.jsx, /src/pages/LegalEvidence.jsx[22m
+[2m1:12:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ReportPreview.jsx, /src/index.css[22m
+[2m1:13:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LegalEvidence.jsx, /src/index.css[22m
