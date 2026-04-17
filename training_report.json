@@ -1,0 +1,25 @@
+{
+  "trained_at": "2026-04-15T06:25:22.418740",
+  "audio": {
+    "validation_accuracy": 0.6932,
+    "sample_count": 440,
+    "class_counts": {
+      "chainsaw": 80,
+      "gunshot": 120,
+      "safe": 120,
+      "vehicle": 120
+    },
+    "artifact": "C:\\Users\\kshem\\Downloads\\forest11\\forest\\backend\\model\\audio_model.pt"
+  },
+  "context": {
+    "validation_accuracy": 0.9489,
+    "sample_count": 1175,
+    "artifact": "C:\\Users\\kshem\\Downloads\\forest11\\forest\\backend\\model\\context_model.pkl",
+    "dataset": "C:\\Users\\kshem\\Downloads\\forest11\\forest\\backend\\data\\context_training.csv"
+  },
+  "prediction": {
+    "validation_accuracy": 0.4959,
+    "sample_count": 2449,
+    "artifact": "C:\\Users\\kshem\\Downloads\\forest11\\forest\\backend\\model\\prediction_model.pt"
+  }
+}

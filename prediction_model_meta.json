@@ -1,0 +1,15 @@
+{
+  "zone_to_index": {
+    "Safari Zone": 0,
+    "Core Forest": 1,
+    "Elephant Corridor": 2,
+    "Entry Gate": 3
+  },
+  "sequence_length": 6,
+  "embedding_dim": 16,
+  "hidden_dim": 48,
+  "sample_count": 2449,
+  "epochs": 12,
+  "batch_size": 32,
+  "validation_accuracy": 0.4959
+}

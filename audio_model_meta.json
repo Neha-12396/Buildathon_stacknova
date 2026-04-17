@@ -1,0 +1,22 @@
+{
+  "label_to_index": {
+    "chainsaw": 0,
+    "gunshot": 1,
+    "safe": 2,
+    "vehicle": 3
+  },
+  "class_counts": {
+    "chainsaw": 80,
+    "gunshot": 120,
+    "safe": 120,
+    "vehicle": 120
+  },
+  "sample_count": 440,
+  "spectrogram_shape": [
+    64,
+    96
+  ],
+  "epochs": 8,
+  "batch_size": 16,
+  "validation_accuracy": 0.6932
+}
